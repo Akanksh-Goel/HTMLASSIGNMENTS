@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment 1</title>
+</head>
+<body>
+<h1>&ltJohn Doe&gt:)</h1><br>
+<h5>Contact</h5>
+<p>0123456789</p>
+<h5>Email</h5>
+<h5>Address</h5>
+<p>123 lorem ipsum,</p>
+<h4>Skills</h4>
+<p>HTML, CSS<br><br>JavaScript/jQuery</p>
+<h4>Education</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque, maxime obcaecati enim illo dolorem, recusandae eum! Quasi natus quaerat aspernatur hic, maxime necessitatibus, quo voluptatem veritatis excepturi error sit vero deleniti laborum alias, expedita nostrum. Mollitia doloribus voluptates
+explicabo quidem.</p>
+<h4>Activity</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur rem, perspiciatis aliquam amet asperiores earum vero hic ab, minus veritatis.</p>
+<h4>Career goals</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur rem, perspiciatis aliquam amet asperiores earum vero hic ab, minus veritatis.</p>
+<h4>Family</h4>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur rem, perspiciatis aliquam amet asperiores earum vero hic ab, minus veritatis.</p>
+</body>
+</html>
