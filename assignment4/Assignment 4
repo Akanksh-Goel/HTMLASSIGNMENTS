@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width initial-size=1.0">
+	<meta name="author" content="Akanksh Goel">
+	<meta name="description" content="This is assignment 4 for links.">
+	<title>Assignment 4</title>
+</head>
+<body>
+   <h1>Coding blocks jr Web Development</h1>
+   <h3>
+   <a href="#two">link to 'section 2' of assignment4.html</a>
+   <br><br>
+   <a href="abc.html" target="_blank">link to abc.html</a>
+   <br><br>
+   <a href="abc.html#ef" target="_blank">link to 'Place Three' of abc.html</a>
+   <br><br>
+   <a href="../folder2/xyz.html" target="_blank">link to 'xyz.html' file of folder2 folder</a>
+   <br><br>
+   <a href="../folder2/xyz.html#tu" target="_blank">link to 'Food 3' of xyz.html file of folder2 folder</a>
+   </h3>
+   <p>Below we have different sections.In each section links have been used.</p>
+   <h2 id="1">Section 1</h2>
+   <p>This section consist of the links which will direct us to different websites</p>
+   <h2>
+    <a href="https://www.youtube.com/">Youtube</a>
+    <br>
+    <a href="https://online.codingblocks.com/">Coding Blocks</a>
+    <br>
+    <a href="https://github.com/">github</a>
+    <br>
+    <a href="https://www.google.com/">Google</a>
+    <br>
+    <a href="https://parenting.firstcry.com/articles/10-educational-cartoons-your-child-should-be-watching/">Educational Cartoons</a>
+   </h2>
+   <br><br><br><br><br><br>
+   <h2 id="two">Section 2</h2>
+   <p>This section consist of the links through which we can directly call a particular organization </p>
+   <h4>
+   	<a href="tel:18001801104">Medical helpline number.</a>
+   	<br>
+   	<a href="tel:18008899999">jio customer care helpline number.</a>
+   	<br>
+   	<a href="tel:18002744504">codingblocks helpline number.</a>
+   	<br>
+   	<a href="tel:911123978046">COVID-19 helpline number.</a>
+   	<br><br><br><br><br><br>
+   </h4>
+   <h2 id="3">Section 3</h2>
+   <h4>
+   <p>This section consist of the links through which we can directly mail a particular organization </p>
+   <a href="mailto:admissions@codingblocks.com">codingblocks helpline E-mail</a>
+   <br>
+   <a href="mailto:agmcustomer.lhohe@sbi.co.in">Sbi helpline E-mail ID:</a>
+   <br>
+   <a href="mailto:support@vidyamandir.com">Vidyamandir helpline Classes E-mail ID</a>
+   <br>
+   <a href="mailto:ncov2019@gov.in">COVID-19 helpline E-mail ID</a>
+   <br><br><br><br><br>
+   </h4>
+   <h2 id="4">section 4</h2>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nesciunt quas fuga iusto ipsum, nisi ea ab dolores quasi? Similique voluptatibus reiciendis non! Sed doloremque in harum accusamus. Ab, vero?</p>
+   <br><br><br><br><br>
+   <h2 id="4">section 4</h2>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nesciunt quas fuga iusto ipsum, nisi ea ab dolores quasi? Similique voluptatibus reiciendis non! Sed doloremque in harum accusamus. Ab, vero?</p>
+</body>
+</html>
