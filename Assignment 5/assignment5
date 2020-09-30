@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-size=1.0">
+  <title>Assignment 5</title>
+</head>
+<body>
+  <h1>Batman</h1>
+  <video src="BatmanVideo.mp4" height="200" controls preload=""></video>
+  <br>
+  <audio src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/Batman.mp3" controls preload></audio><br>
+  <video src="dark_knight.mp4" height="200" controls preload></video><br>
+  <figure>
+  <img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/batman1.jpeg" alt="Batman around some bats" height="200"><br>
+  <img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment5/assignment5folder/batman2.jpg" alt="Batman" height="300">
+  <figcaption><h2>Some Pictures Of Batman</h2></figcaption>
+  </figure>
+</body>
+</html>
