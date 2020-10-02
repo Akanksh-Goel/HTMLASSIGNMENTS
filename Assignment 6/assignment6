@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-size=1.0">
+  <title>Assignment 6</title>
+</head>
+<body>
+  <table border="10" bgcolor="purple" cellpadding="3" cellspacing="5">
+    <thead align="center" bgcolor="lightgreen">
+      <tr>
+        <th colspan="4">First Gen Pokemon Chart</th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr bgcolor="lightgreen">
+        <th scope="col">Image</th>
+        <th scope="col">Name</th>
+        <th scope="col">Type</th>
+        <th scope="col">Evolves into</th>
+      </tr>
+      <tr bgcolor="yellow">
+        <td><img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment6/i1.jpeg"></td>
+        <td>Bulbasaur</td>
+        <td>Grass/Poison</td>
+        <td><a href="https://in.portal-pokemon.com/play/pokedex/002" target="_blank">Ivysaur</a></td>
+      </tr>
+      <tr bgcolor="yellow">
+        <td><img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment6/i2.jpeg"></td>
+        <td>Charmander</td>
+        <td>Fire</td>
+        <td><a href="https://in.portal-pokemon.com/play/pokedex/005" target="_blank">Charmeleon</a></td>
+      </tr>
+      <tr bgcolor="yellow">
+        <td><img src="https://raw.githubusercontent.com/sanjeetboora/CBJrWeb/master/Assignment6/i3.jpeg"></td>
+        <td>Squirtle</td>
+        <td>Water</td>
+        <td><a href="https://in.portal-pokemon.com/play/pokedex/008" target="_blank">Wartortle</a></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
